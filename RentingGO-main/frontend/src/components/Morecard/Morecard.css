@@ -1,0 +1,4 @@
+.morecard{
+    width: min(100%, 355px);
+    box-shadow: 0 0 10px rgb(195, 195, 195);
+}

@@ -1,0 +1,216 @@
+{
+    "mainProducts": [
+        {
+            "id": 1,
+            "mainProName": "Mist Fan",
+            "mainDesc": "",
+            "subProducts": [
+                {
+                    "id": "11",
+                    "subProName": "HIGH END - BLUE Tank",
+                    "subDesc": "This HIGH END Misting Fan comes with LED LIGHTS in it which gives an attractive look to the ambience and goes in hand in hand with the decor. This Mist fans have ultra fine mist for maximum comfort. Their excellent performance dramatically reduces the temperature in your surrounding area. \n It can also be used as an indoor fan without the misting ability. \n Our high end mist fans have ultra fine mist and BLUE LED Lights in it.",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "In Build LED Lights",
+                        "Ultra Fine Mist",
+                        "High quality Grill Blade and Framework",
+                        "90° swing",
+                        "Minimum mist throw of 8 - 10 feet",
+                        "Wheels for easy mobilization",
+                        "Uses of events, weddings, shootings and exhibition etc."
+                    ],
+                    "price": "1500",
+                    "oneMoreFeat": "We make sure that our Mist Fans & mist fan parts are delivered with a Bottle of good quality fragrance which enhances the function."
+                },
+                {
+                    "id": "12",
+                    "subProName": "Regular - Black & Brown",
+                    "subDesc": "This high tech Misting Fan provides an extra fine mist for maximum comfort. Indoors or outdoors, their excellent performance dramatically reduces the temperature in your surrounding area.\n It can also be used as an indoor fan without the misting ability.\n We are immensely proud to introduce ourselves as the leading service provider in variety of Misting Fans. This service is imparted by our team of ingenious professionals that deeply communicate with the customers according to their diverse requirements ensuring to fulfill their requirements at our best efforts.\n  In this service, we provide high quality mist fans on rent with wheels for easy mobilization. Furthermore, our skillful professionals work with utter cooperation in order to provide variant solutions according to the detailed specifications from our clients.",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "High quality Grill Blade and Framework",
+                        "90° swing",
+                        "Minimum mist throw of 8 - 10 feet",
+                        "Wheels for easy mobilization",
+                        "Uses of events, weddings, shootings and exhibition etc."
+                    ],
+                    "price": "1000",
+                    "oneMoreFeat": "We make sure that our Mist Fans & mist fan parts are delivered with a Bottle of good quality fragrance which enhances the function."
+                },
+                {
+                    "id": "13",
+                    "subProName": "JUMBO",
+                    "subDesc": "This JUMBO Misting Fan comes with a HUGE 80 LTRs Water Tank capacity and LED LIGHTS in it which gives an attractive look to the ambience and goes hand in hand with the surrounding decor. This Mist fans have ultra fine mist for maximum comfort. \n  We provide JUMBO mist fans on rent with 80 LTRs Water Tank capacity and LED LIGHTS.",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "80 LTRs Water Tank Capacity",
+                        "In Build LED Lights",
+                        "Ultra Fine Mist",
+                        "High quality Grill Blade and Framework",
+                        "90° swing",
+                        "Mist throw is up to 15 feet",
+                        "Wheels for easy mobilization",
+                        "Uses of events, weddings, shootings and exhibition etc."
+                    ],
+                    "price": "2000",
+                    "oneMoreFeat": "We make sure that our Mist Fans & mist fan parts are delivered with a Bottle of good quality fragrance which enhances the function."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "mainProName": "Air Cooler",
+            "mainDesc": "This Air Cooler circulates water from the reservoir on to a cooling pad, which in turn becomes very wet. A fan draws air from outside the unit through the moistened pad. As it passes through the pad the air is cooled by evaporation. Effective evaporative cooling ensures that each of the cooling pads are completely saturated resulting optimum cooling. \n We provide Industrial Air Coolers on Rent from 75 LTRs to 120 LTRs Water Tank capacity which is good enough to cover an area of approx. 400 – 2500 sq. ft.",
+            "subProducts": [
+                {
+                    "id": "21",
+                    "subProName": "Air Cooler - 75 Ltrs",
+                    "subDesc": "",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "ZERO Water drainage",
+                        "Minimum Space requirement",
+                        "Covers an approx. area up to 400 sq. ft",
+                        "Wheels for easy mobilization",
+                        "Ideal for events, weddings, shootings, exhibition etc."
+                    ],
+                    "price": "1000",
+                    "oneMoreFeat": ""
+                },
+                {
+                    "id": "22",
+                    "subProName": "Air Cooler - 90 Ltrs",
+                    "subDesc": "",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "ZERO Water drainage",
+                        "Minimum Space requirement",
+                        "Covers an approx. area up to 900 – 1000 sq. ft",
+                        "Wheels for easy mobilization",
+                        "Ideal for events, weddings, shootings, exhibition etc."
+                    ],
+                    "price": "1500",
+                    "oneMoreFeat": ""
+                },
+                {
+                    "id": "23",
+                    "subProName": "Air Cooler - 120 Ltrs",
+                    "subDesc": "",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "Touch Display",
+                        "ZERO Water drainage",
+                        "Covers an approx. area up to 2000 – 2500 sq. ft",
+                        "Wheels for easy mobilization",
+                        "Ideal for events, weddings, shootings, exhibition etc."
+                    ],
+                    "price": "2000",
+                    "oneMoreFeat": "To beat the heat, addition of ICE will help the cooler to cool the surroundings within no time"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "mainProName": "Portable AC",
+            "mainDesc": "",
+            "subProducts": [
+                {
+                    "id": "31",
+                    "subProName": "Portable Air Conditioner",
+                    "subDesc": "A portable air conditioner is a self-contained portable system ideal for temporary cooling solution. They typically sit on the floor with minimum space requirement and have an inbuilt compressor which makes it easy to install. It also has wheels which helps you to move them to different directions making them a nice alternative to window and split units.\n We provide 1 TON Portable AC on rent also known as PLUG & PLAY AC or PAC (Portable Air Conditioner).",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "High quality Grill Blade and Framework",
+                        "90° swing",
+                        "Minimum mist throw of 8 - 10 feet",
+                        "Wheels for easy mobilization",
+                        "Uses of events, weddings, shootings and exhibition etc."
+                    ],
+                    "price": "1500",
+                    "oneMoreFeat": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "mainProName": "Pedestal Fan",
+            "mainDesc": "",
+            "subProducts": [
+                {
+                    "id": "41",
+                    "subProName": "Pedestal Fan - 4 Ft",
+                    "subDesc": "Pedestal Fans are also known as Stand-up Fans which are one of the easy way to beat the temporary heat. They sport a long/short fan rod that is attached to a sturdy pedestal at the bottom. One can easily get pedestal fans for rent for events, weddings, shootings, exhibition etc.",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "6 Feet Height",
+                        "High quality Grill Blade and Framework",
+                        "90° swing",
+                        "Minimum throw of 8 - 12 feet",
+                        "Ideal for events, weddings, shootings, exhibition etc."
+                    ],
+                    "price": "500",
+                    "oneMoreFeat": ""
+                },
+                {
+                    "id": "42",
+                    "subProName": "Pedestal Fan - 6 Ft",
+                    "subDesc": "Pedestal Fans are also known as Stand-up Fans which are one of the easy way to beat the temporary heat. They sport a long/short fan rod that is attached to a sturdy pedestal at the bottom. One can easily get pedestal fans for rent for events, weddings, shootings, exhibition etc.",
+                    "subFeatures": [
+                        "Plug & Play",
+                        "6 Feet Height",
+                        "High quality Grill Blade and Framework",
+                        "90° swing",
+                        "Minimum throw of 8 - 12 feet",
+                        "Ideal for events, weddings, shootings, exhibition etc."
+                    ],
+                    "price": "500",
+                    "oneMoreFeat": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "mainProName": "Heater",
+            "mainDesc": "",
+            "subProducts": [
+                {
+                    "id": "51",
+                    "subProName": "Electric Heater",
+                    "subDesc": "Electric heaters are easy to install, extremely cost effective to run and require minimal maintenance. Premium quality, stylish & slim line electric radiant heaters are perfect for protected outdoor and indoor Events, Weddings and Exhibitions. \n The Electric Heater is the latest innovation in climate control and is appropriate for outdoor heating. Because of the unique design of these systems they can be used in both indoor and outdoor Events.",
+                    "subFeatures": [
+                        "Plug and Play",
+                        "Sturdy and high quality design.",
+                        "Halogen heating element: clean, odorless, instant heat, safe and convenient.",
+                        "Approx power consumption 1500 Watts to 1800 Watts",
+                        "Occupies minimal space."
+                    ],
+                    "price": "1000",
+                    "oneMoreFeat": "Doesn’t consume any kind of fuel, shock proof and fire resistant."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "mainProName": "Washroom",
+            "mainDesc": "",
+            "subProducts": [
+                {
+                    "id": "61",
+                    "subProName": "W.O.W - Portable Washroom",
+                    "subDesc": "Washroom On wheels - We Take your Shit Seriously. \n W.O.W is an Air Conditioned Portable Toilet made with vision to provide clean and hygienic toilet facilities for various functions like weddings, exhibitions and other events.\n With a water tank capacity of 300ltrs W.O.W can run up to 6hrs and can provide Toilet facilities to about 100 to 150 people before it needs Drainage and Water Refill.\n All it needs is 2KW power and water at the venue.\n This is our Unique Contribution towards 'The Swacch Bharat Initiative.'",
+                    "subFeatures": [
+                        "Urinals - 3 nos.",
+                        "WC - 1no.",
+                        "Wash Basin - 1no.",
+                        "Mirror - 1",
+                        "Tissue Box - 1",
+                        "Hand wash - 1",
+                        "Air Freshener - 1"
+                    ],
+                    "price": "1000",
+                    "oneMoreFeat": "What is WC: abbreviation for water closet: a toilet, or a room containing a toilet."
+                }
+            ]
+        }
+    ]
+}

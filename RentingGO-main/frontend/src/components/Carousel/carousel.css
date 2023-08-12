@@ -1,0 +1,19 @@
+/* *{
+    color: red;
+} */
+
+/* .carousel-control-prev-icon{
+    display: none;
+}
+.carousel-control-next-icon{
+    display: none;
+} */
+
+.carousel-indicators{
+    margin-bottom: 0rem;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: rgba(0, 0, 0, 0.589);
+    margin-top: 10px;
+}

@@ -1,0 +1,16 @@
+.headerMain{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 3;
+}
+
+.backBtnWrap button{
+    outline: none;
+    border: none;
+}
+
+.backBtnWrap i{
+    /* background-color: rgba(0, 0, 0, 0.29) !important; */
+    cursor: pointer;
+}

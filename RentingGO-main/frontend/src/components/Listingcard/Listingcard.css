@@ -1,0 +1,4 @@
+.listingCardMain{
+    width: min(100%, 350px);
+    box-shadow: 0 0 10px rgb(171, 171, 171);
+}

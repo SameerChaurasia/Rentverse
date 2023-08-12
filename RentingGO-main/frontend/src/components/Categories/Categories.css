@@ -1,0 +1,23 @@
+/* *{
+    color: red;
+} */
+
+.categorycard{
+    width: 75px;
+    /* background-color: #fff0f0 !important;
+    background-color: #ebf9ff !important;
+    background-color: #ffffe4 !important;
+    background-color: #fff1d7 !important;
+    background-color: #ffdfff !important; */
+}
+
+.categoryTxt{
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+@media screen and (min-width: 370px) {
+    .categorycard{
+        width: 80px;
+    }
+}

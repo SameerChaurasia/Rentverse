@@ -1,0 +1,99 @@
+.detailBackBtn{
+    position: fixed;
+    top: 25px;
+    left: 10px;
+    z-index: 5;
+}
+
+.detailBackBtn button{
+    outline: none;
+    border: none;
+}
+
+.floatPrice{
+    width: auto !important;
+}
+
+.floatBooking{
+    width: auto !important;
+}
+
+.detailBackBtn button i{
+    background-color: rgba(0, 0, 0, 0.446);
+}
+
+.featuresPara{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.formContainer, .thankyouDiv{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.305);
+    backdrop-filter: blur(3px);
+    position: fixed;
+    top: 0px;
+    /* display: none; */
+    justify-content: center;
+    align-items: center;
+    z-index: 15;
+}
+
+.popupForm{
+    border-radius: 20px;
+    width: min(100%, 500px);
+}
+
+.dateWrap, .amoundWrap{
+    width: 100%;
+    overflow-x: auto;
+}
+
+.dateCardPara{
+    min-width: 105px;
+}
+
+.activeTabD{
+    background-color: rgb(63, 63, 63) !important;
+    color: white !important;
+}
+
+.activeTabD:hover{
+    background-color: rgb(22, 22, 22) !important;
+    color: white !important;
+}
+
+.activeTabA{
+    background-color: rgb(63, 63, 63) !important;
+    color: white !important;
+}
+
+.activeTabA:hover{
+    background-color: rgb(22, 22, 22) !important;
+    color: white !important;
+}
+
+@media screen and (min-width: 560px) {
+    .detailMain{
+        display: flex;
+    }
+    .leftDesk{
+        width: 50%;
+    }
+    .rightDesk{
+        width: 50%;
+        height: 100vh;
+        overflow-y: auto;
+    }
+    .floatBtnWrap{
+        left: 0;
+    }
+    .floatPrice{
+        width: 45% !important;
+    }
+    
+    .floatBooking{
+        width: 45% !important;
+    }
+}
